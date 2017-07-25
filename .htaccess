@@ -1,7 +1,7 @@
 # neogennium.com
 # para adicionar comentario utilize o simbolo que esta no inicio desta linha
-ErrorDocument 404 /error_pages/404.html
-ErrorDocument 403 /error_pages/403.html
+ErrorDocument 404 /404.html
+ErrorDocument 403 /403.html
 #
 #--------------------------------------------------------------------
 # 
