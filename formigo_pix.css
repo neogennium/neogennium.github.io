@@ -124,11 +124,11 @@ input:focus, textarea:focus, select:focus
    border: 0px solid #000000;
    padding: 0;
    margin: 0;
-   text-align: right;
+   text-align: center;
 }
 #wb_Text3 div
 {
-   text-align: right;
+   text-align: center;
 }
 #wb_Text3
 {
@@ -158,11 +158,11 @@ input:focus, textarea:focus, select:focus
    border: 0px solid #000000;
    padding: 0;
    margin: 0;
-   text-align: left;
+   text-align: center;
 }
 #wb_Text2 div
 {
-   text-align: left;
+   text-align: center;
 }
 #wb_Text2
 {
@@ -483,7 +483,7 @@ input:focus, textarea:focus, select:focus
    margin-right: -15px;
    margin-left: -15px;
 }
-#LayoutGrid4 > .row > .col-1, #LayoutGrid4 > .row > .col-2
+#LayoutGrid4 > .row > .col-1
 {
    box-sizing: border-box;
    font-size: 0px;
@@ -492,7 +492,7 @@ input:focus, textarea:focus, select:focus
    padding-left: 15px;
    position: relative;
 }
-#LayoutGrid4 > .row > .col-1, #LayoutGrid4 > .row > .col-2
+#LayoutGrid4 > .row > .col-1
 {
    float: left;
 }
@@ -501,15 +501,7 @@ input:focus, textarea:focus, select:focus
    background-color: transparent;
    background-image: none;
    border: 0px solid #FFFFFF;
-   width: 50%;
-   text-align: left;
-}
-#LayoutGrid4 > .row > .col-2
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #FFFFFF;
-   width: 50%;
+   width: 100%;
    text-align: left;
 }
 #LayoutGrid4:before,
@@ -527,7 +519,7 @@ input:focus, textarea:focus, select:focus
 }
 @media (max-width: 480px)
 {
-#LayoutGrid4 > .row > .col-1, #LayoutGrid4 > .row > .col-2
+#LayoutGrid4 > .row > .col-1
 {
    float: none;
    width: 100% !important;
@@ -627,7 +619,7 @@ input:focus, textarea:focus, select:focus
    margin-right: -15px;
    margin-left: -15px;
 }
-#LayoutGrid5 > .row > .col-1, #LayoutGrid5 > .row > .col-2
+#LayoutGrid5 > .row > .col-1
 {
    box-sizing: border-box;
    font-size: 0px;
@@ -636,7 +628,7 @@ input:focus, textarea:focus, select:focus
    padding-left: 15px;
    position: relative;
 }
-#LayoutGrid5 > .row > .col-1, #LayoutGrid5 > .row > .col-2
+#LayoutGrid5 > .row > .col-1
 {
    float: left;
 }
@@ -645,16 +637,8 @@ input:focus, textarea:focus, select:focus
    background-color: transparent;
    background-image: none;
    border: 0px solid #FFFFFF;
-   width: 50%;
-   text-align: right;
-}
-#LayoutGrid5 > .row > .col-2
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #FFFFFF;
-   width: 50%;
-   text-align: right;
+   width: 100%;
+   text-align: center;
 }
 #LayoutGrid5:before,
 #LayoutGrid5:after,
@@ -671,7 +655,7 @@ input:focus, textarea:focus, select:focus
 }
 @media (max-width: 480px)
 {
-#LayoutGrid5 > .row > .col-1, #LayoutGrid5 > .row > .col-2
+#LayoutGrid5 > .row > .col-1
 {
    float: none;
    width: 100% !important;
@@ -694,7 +678,7 @@ input:focus, textarea:focus, select:focus
 #LayoutGrid7
 {
    box-sizing: border-box;
-   padding: 20px 15px 20px 15px;
+   padding: 60px 15px 40px 15px;
    margin-right: auto;
    margin-left: auto;
 }
@@ -703,7 +687,7 @@ input:focus, textarea:focus, select:focus
    margin-right: -15px;
    margin-left: -15px;
 }
-#LayoutGrid7 > .row > .col-1, #LayoutGrid7 > .row > .col-2
+#LayoutGrid7 > .row > .col-1
 {
    box-sizing: border-box;
    font-size: 0px;
@@ -712,7 +696,7 @@ input:focus, textarea:focus, select:focus
    padding-left: 15px;
    position: relative;
 }
-#LayoutGrid7 > .row > .col-1, #LayoutGrid7 > .row > .col-2
+#LayoutGrid7 > .row > .col-1
 {
    float: left;
 }
@@ -721,15 +705,7 @@ input:focus, textarea:focus, select:focus
    background-color: transparent;
    background-image: none;
    border: 0px solid #FFFFFF;
-   width: 50%;
-   text-align: left;
-}
-#LayoutGrid7 > .row > .col-2
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #FFFFFF;
-   width: 50%;
+   width: 100%;
    text-align: left;
 }
 #LayoutGrid7:before,
@@ -747,7 +723,7 @@ input:focus, textarea:focus, select:focus
 }
 @media (max-width: 480px)
 {
-#LayoutGrid7 > .row > .col-1, #LayoutGrid7 > .row > .col-2
+#LayoutGrid7 > .row > .col-1
 {
    float: none;
    width: 100% !important;
@@ -797,15 +773,14 @@ input:focus, textarea:focus, select:focus
    background-color: transparent;
    background-image: none;
    border: 0px solid #FFFFFF;
-   width: 50%;
-   text-align: left;
+   width: 100%;
+   text-align: center;
 }
 #LayoutGrid8 > .row > .col-2
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #FFFFFF;
-   width: 50%;
    text-align: left;
 }
 #LayoutGrid8:before,
