@@ -511,7 +511,6 @@ input:focus, textarea:focus, select:focus
    padding: 20px 15px 10px 15px;
    margin-right: auto;
    margin-left: auto;
-   max-width: 600px;
 }
 #LayoutGrid6 > .row
 {
@@ -580,7 +579,6 @@ input:focus, textarea:focus, select:focus
    padding: 20px 15px 20px 15px;
    margin-right: auto;
    margin-left: auto;
-   max-width: 600px;
 }
 #LayoutGrid5 > .row
 {
@@ -870,7 +868,7 @@ input:focus, textarea:focus, select:focus
 #LayoutGrid11
 {
    box-sizing: border-box;
-   padding: 20px 15px 20px 15px;
+   padding: 20px 15px 80px 15px;
    margin-right: auto;
    margin-left: auto;
 }
