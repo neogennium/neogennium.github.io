@@ -756,31 +756,6 @@ input:focus, textarea:focus, select:focus
    box-sizing: border-box;
    width: 100%;
 }
-#wb_Line1
-{
-   font-size: 0;
-}
-#Line1
-{
-   border-width: 0;
-   height: 262px;
-   width: 8px;
-}
-#wb_Image4
-{
-   vertical-align: top;
-}
-#Image4
-{
-   border: 2px solid #000000;
-   border-radius: 17px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 .ThemeableMenu1 .hide 
 {
    display: none!important;
