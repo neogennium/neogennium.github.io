@@ -131,6 +131,7 @@ input:focus, textarea:focus, select:focus
 #Image1
 {
    border: 0px solid #000000;
+   border-radius: 8px;
    padding: 0;
    display: inline-block;
    width: 200px;
@@ -185,6 +186,7 @@ input:focus, textarea:focus, select:focus
 #Image2
 {
    border: 2px solid #1E2329;
+   border-radius: 7px;
    padding: 0;
    display: inline-block;
    width: 83px;
@@ -199,6 +201,7 @@ input:focus, textarea:focus, select:focus
 #Image4
 {
    border: 0px solid #000000;
+   border-radius: 8px;
    padding: 0;
    display: inline-block;
    width: 109px;
@@ -213,6 +216,7 @@ input:focus, textarea:focus, select:focus
 #Image5
 {
    border: 0px solid #000000;
+   border-radius: 8px;
    padding: 0;
    display: inline-block;
    width: 162px;
@@ -927,6 +931,7 @@ input:focus, textarea:focus, select:focus
 #Image6
 {
    border: 0px solid #000000;
+   border-radius: 8px;
    padding: 0;
    display: inline-block;
    width: 209px;
